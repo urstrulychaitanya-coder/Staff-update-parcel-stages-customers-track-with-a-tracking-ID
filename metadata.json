@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parcel Tracking & Delivery Management System",
+  "description": "DAA prototype for parcel tracking, delivery stage management, and algorithmic analysis: O(1) hashing, linear search comparison, O(n log n) merge sort, sorting center FIFO queues, and route optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
